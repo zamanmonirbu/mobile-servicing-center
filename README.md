@@ -10,8 +10,13 @@ Welcome to the Mobile Service Center repository! This project aims to provide co
 - **JAVASCRIPT**
 - **TAILWIND CSS**
 
-## Live Server Link: [Link](https://zamanmonirbu.github.io/mobile-servicing-center/).
+## Live Server Link: [Mobile Service Center](https://zamanmonirbu.github.io/mobile-servicing-center/).
 
 Feel free to clone or fork this repository and contribute to the improvement of our Mobile Service Center project! If you encounter any issues or have suggestions, please open an [issue](https://github.com/zamanmonirbu/mobile-servicing-center/issues).
+
+Connect with us:
+- [LinkedIn](www.linkedin.com/in/mdmoniruzzamanbu)
+- [Netlify](https://moniruzzamanbu.netlify.app/)
+- [Medium](https://medium.com/@zamanmonirbu)
 
 Happy coding!
